@@ -1,6 +1,7 @@
 # Semantic Segmentation on PASCAL VOC 2012 
 
 ## Introduction 
+This project implemented image segmentation on the PASCAL VOC 2012 dataset using FCN network.
 
 
 ## General info 
@@ -20,8 +21,10 @@
 ## Result 
 Here are some segmented image obtained after training the notebook for 50 epochs:  
 
-![result_1]()
+![result_1](https://github.com/haongnd2280/Semantic-Segmentation/blob/main/images/result_1.jpg)
 
-![result_2]()
+![result_2](https://github.com/haongnd2280/Semantic-Segmentation/blob/main/images/result_2.jpg)
 
-![result_3]()
+![result_3](https://github.com/haongnd2280/Semantic-Segmentation/blob/main/images/result_3.jpg)
+
+
